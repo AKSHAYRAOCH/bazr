@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BazrApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BazrApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(BazrApplication.class, args);
+    }
 }
